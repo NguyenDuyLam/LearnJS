@@ -1,0 +1,22 @@
+{
+  "name": "learn-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "tsc typescript/main.ts && node typescript/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhattruongniit/learn-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.1.6"
+  },
+  "dependencies": {
+    "cross-fetch": "^3.0.4",
+    "lodash": "^4.17.15"
+  }
+}
